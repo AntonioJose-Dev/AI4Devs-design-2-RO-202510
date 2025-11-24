@@ -1,5 +1,5 @@
 # User Stories - Sistema LTI
-**Autor:** Antonio José Muñoz (AJM)  
+**Autor:** Antonio José Marín (AJM)  
 **Fecha:** 24 de noviembre de 2025  
 **Versión:** 1.0  
 **Metodología:** Prompt Engineering (ReAct: Reasoning + Acting)
